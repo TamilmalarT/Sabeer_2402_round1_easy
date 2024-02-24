@@ -1,0 +1,123 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.mob{
+    background-image: linear-gradient(rgb(255, 255, 255),rgb(255, 255, 255), rgb(137, 231, 59));
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.nav{
+    width: 100vw;
+    border-bottom: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbtn{
+    width:100px;
+    height: 25px;
+    border-radius: 20px;
+    border: 1px solid black;
+    margin-right: 5px;
+
+}
+
+.navcont{
+    width: 60vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.h{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+.fes{
+    font-size: 100px;
+    font-family: "Oswald", sans-serif;
+}
+.day{
+    display: flex;
+    align-items: center;
+    height: 100px;
+}
+.whenwatch{
+    width: 60vw;
+    display: flex;
+    justify-content: space-around;
+}
+.when{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.big{
+    width: 55vw;
+    display: flex;
+    height: 40px;
+    border-radius: 50px;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+
+}
+.one{
+    width: 25vw;
+    height: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+    color: white;
+    background-color: black;
+    border-radius: 50px;
+
+}
+.two{
+    width: 25vw;
+    height: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.row{
+    height: 75px;
+    width: 53vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+
+
+}
+.des{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.des div{
+    margin-left: 180px;
+}
+
+.footer{
+    background-color: black;
+    color: white;
+}
+.pres{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.image{
+    width: 90vw;
+}
